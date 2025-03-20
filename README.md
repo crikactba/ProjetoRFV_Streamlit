@@ -3,7 +3,7 @@
 RFV (Recência, Frequência e Valor) é utilizado para segmentação de clientes baseado no comportamento de compras e agrupamento em clusters parecidos. 
 
 Utilizando esse tipo de agrupamento podemos realizar ações de marketing e CRM melhores direcionadas, 
-ajudando assim na personalização do conteúdo e até a retenção de clientes.
+ajudando assim na personalização do conteúdo e até mesmo na retenção de clientes.
 
 Para cada cliente é preciso calcular cada um dos componentes abaixo:
 
