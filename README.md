@@ -11,10 +11,14 @@ Para cada cliente é preciso calcular cada um dos componentes abaixo:
     - Frequência (F): Quantidade total de compras no período.
     - Valor (V): Total de dinheiro gasto nas compras do período.
     
+No vídeo abaixo faço a demonstração da aplicação desenvolvida: 
+[streamlit-app_RFV.webm](https://github.com/user-attachments/assets/9e2a1793-43be-45fe-829a-579d8b299c00)
+
+
 Link da aplicação:
 https://projetorfv-streamlit.onrender.com/
 
-Video com a demonstração de uso:
 
-https://github.com/user-attachments/assets/675ba410-d0ee-49d7-8a7d-dd4f59c29b2a
+
+
 
