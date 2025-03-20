@@ -12,7 +12,8 @@ Para cada cliente é preciso calcular cada um dos componentes abaixo:
     - Valor (V): Total de dinheiro gasto nas compras do período.
     
 No vídeo abaixo faço a demonstração da aplicação desenvolvida: 
-[streamlit-app_RFV.webm](https://github.com/user-attachments/assets/9e2a1793-43be-45fe-829a-579d8b299c00)
+
+https://github.com/user-attachments/assets/d16264c7-1929-4c7c-8955-b68ea5d2b32b
 
 
 Link da aplicação:
