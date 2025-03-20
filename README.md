@@ -1,4 +1,4 @@
-# Projeto RFV utilizando Streamlit
+# Projeto de segmentação de clientes utilizando a técnica RFV com Streamlit
 
 RFV (Recência, Frequência e Valor) é utilizado para segmentação de clientes baseado no comportamento de compras e agrupamento em clusters parecidos. 
 
