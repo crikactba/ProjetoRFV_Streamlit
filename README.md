@@ -11,7 +11,7 @@ Para cada cliente é preciso calcular cada um dos componentes abaixo:
     - Frequência (F): Quantidade total de compras no período.
     - Valor (V): Total de dinheiro gasto nas compras do período.
     
-No vídeo abaixo, faço a demonstração da aplicação desenvolvida: 
+No vídeo abaixo, faço a demonstração da aplicação desenvolvida. Na qual o usuário importa uma base de dados e a aplicação retorna a segmentação já pronta dos clientes.
 
 https://github.com/user-attachments/assets/d16264c7-1929-4c7c-8955-b68ea5d2b32b
 
